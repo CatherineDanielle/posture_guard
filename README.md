@@ -22,14 +22,14 @@ PostureGuard is a web-based application that monitors sitting posture through we
 | Frontend | React.js, Tailwind CSS |
 | Backend | Flask (Python) |
 | ML Models | YOLOv8m, YOLOv11m (Ultralytics) |
-| Dataset | Roboflow (Grayscale posture images) |
+| Dataset | Roboflow with preprocessing |
 
 ## Model Performance
 
 | Model | Precision | Recall | mAP@0.5 | Inference Speed |
 |-------|-----------|--------|---------|-----------------|
-| YOLOv8m | 96.5% | 97.2% | 97.0% | Faster |
-| YOLOv11m | 97.8% | 97.5% | 98.1% | Slower |
+| YOLOv8m | 86.8% | 87.5% | 96.3% | Faster |
+| YOLOv11m | 84.2% | 94.3% | 97.0% | Slower |
 
 *YOLOv11m achieves higher accuracy while YOLOv8m offers faster real-time performance.*
 
