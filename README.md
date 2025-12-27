@@ -4,7 +4,7 @@ Real-time sitting posture detection system using YOLO object detection models.
 
 ## Overview
 
-PostureGuard is a web-based application that monitors sitting posture through webcam feed and provides real-time feedback. The system classifies postures as either **"Good Sitting Posture"** or **"Bad Sitting Posture"** using custom-trained YOLO models, helping users maintain healthier sitting habits.
+PostureGuard is a web-based application that monitors sitting posture through webcam feed and provides real time feedback. The system classifies postures as either **"Good Sitting Posture"** or **"Bad Sitting Posture"** using custom-trained YOLO models, helping users maintain healthier sitting habits.
 
 ## Features
 
