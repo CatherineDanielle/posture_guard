@@ -111,4 +111,3 @@ This project is developed for educational purposes as part of the Computer Visio
 
 ---
 
-*Built with ❤️ for better posture*
