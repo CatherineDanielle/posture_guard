@@ -1,0 +1,13 @@
+names:
+- Bad Sitting Posture
+- Good Sitting Posture
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: good-or-bad-posture-v2-0ydsl-exbep
+  url: https://universe.roboflow.com/cath-oxqmx/good-or-bad-posture-v2-0ydsl-exbep/dataset/1
+  version: 1
+  workspace: cath-oxqmx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
